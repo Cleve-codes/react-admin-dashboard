@@ -21,7 +21,7 @@
 function Sidebar() {
     return (
         <div>
-            SideBar
+            SideBar jsx
         </div>
     )
 }
